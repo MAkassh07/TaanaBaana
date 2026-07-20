@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </linearGradient>
+    <pattern id="p1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="none"/>
+      <path d="M0 0 L20 20 M20 0 L0 20" stroke="#fbbf24" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="400" fill="#fef3c7"/>
+  <rect x="60" y="40" width="280" height="320" fill="url(#g1)" rx="8"/>
+  <rect x="60" y="40" width="280" height="320" fill="url(#p1)" rx="8"/>
+  <rect x="60" y="300" width="280" height="60" fill="#7c2d12" opacity="0.6" rx="8"/>
+  <text x="200" y="335" font-family="serif" font-size="20" fill="#fef3c7" text-anchor="middle">Silk Saree</text>
+</svg>

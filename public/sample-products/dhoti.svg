@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g8" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#eef2ff"/>
+  <rect x="120" y="60" width="160" height="280" fill="url(#g8)" rx="4"/>
+  <g stroke="#c7d2fe" stroke-width="0.8" opacity="0.5">
+    <line x1="120" y1="100" x2="280" y2="100"/>
+    <line x1="120" y1="140" x2="280" y2="140"/>
+    <line x1="120" y1="180" x2="280" y2="180"/>
+    <line x1="120" y1="220" x2="280" y2="220"/>
+    <line x1="120" y1="260" x2="280" y2="260"/>
+  </g>
+  <rect x="120" y="280" width="160" height="60" fill="#1e1b4b" opacity="0.7" rx="4"/>
+  <text x="200" y="315" font-family="serif" font-size="18" fill="#eef2ff" text-anchor="middle">Dhoti</text>
+</svg>
